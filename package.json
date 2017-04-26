@@ -1,0 +1,26 @@
+{
+  "name": "lab-07-cowsay-http-server",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) lab-07-cowsay-http-server\r ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "launch": "nodemon server.js",
+    "lint": "eslintrc"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renegadellama/lab-07-cowsay-http-server.git"
+  },
+  "author": "Isak Swearingen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renegadellama/lab-07-cowsay-http-server/issues"
+  },
+  "homepage": "https://github.com/renegadellama/lab-07-cowsay-http-server#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
